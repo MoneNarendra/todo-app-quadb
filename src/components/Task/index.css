@@ -1,0 +1,42 @@
+.todo-task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task-container {
+  display: flex;
+  align-content: center;
+}
+
+.checkbox-ele {
+  width: 1.3em;
+  height: 1.3rem;
+  /* accent-color: #d98326; */
+}
+
+.task-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.is-active {
+  color: #c1c1c1;
+  text-decoration: line-through;
+}
+
+.button-ele {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.delete-icon {
+  color: #d98326;
+  font-size: 20px;
+}
+
+.hr-line {
+  border: 1px solid #76b7cd;
+}

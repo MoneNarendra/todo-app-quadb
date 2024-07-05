@@ -1,0 +1,8 @@
+.todo-list-container {
+  padding: 15px;
+  background-color: #f1ece6;
+  list-style-type: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 50px;
+}

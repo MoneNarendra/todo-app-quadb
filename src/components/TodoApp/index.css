@@ -1,0 +1,39 @@
+.todos-bg-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todos-header-container {
+  background-color: #f1ece6;
+  width: 100%;
+}
+
+.todos-heading {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 36px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .todos-heading {
+    font-size: 46px;
+  }
+}
+
+.to-heading {
+  color: #706f6f;
+}
+
+.do-heading {
+  color: #d98326;
+}
+
+.todo-bottom-container {
+  width: 80%;
+}
