@@ -1,7 +1,7 @@
 
 # Todo Application
 
-![image](https://github.com/MoneNarendra/Todo-QuadB/assets/121397129/769df8aa-51b3-4231-b0af-8b922d099e45)
+![Screenshot 2024-07-04 232801](https://github.com/MoneNarendra/todo-app-quadb/assets/121397129/9bfa5614-ba93-4e06-b6e1-8973222fc360)
 
 
 - **React Components**: Develop the application using class components.
